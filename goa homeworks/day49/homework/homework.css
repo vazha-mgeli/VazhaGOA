@@ -1,0 +1,11 @@
+body{
+    background-image: url('/day49/homework/dzmakacebi.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 500px;
+}
+.vazha{
+    display: flex;
+    flex-direction: row;
+}

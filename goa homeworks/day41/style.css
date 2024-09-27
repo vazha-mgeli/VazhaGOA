@@ -1,0 +1,41 @@
+.pairent{
+    width: 100%;
+    height: 90px;
+    background-color: blue;
+
+    display:flex;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    gap: 20px;
+}
+```
+ul:nth-child(even) {
+  color: blue;
+  background: white;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+ul li:hover {
+  color: red;
+  background: cyan;
+  transform: scale(1.5);
+  transition: .5s;
+  cursor: pointer;
+}
+
+ul:first-child {
+  color: green;
+  background: black;
+  transition: .5s;
+}
+
+ul:last-child {
+  color: purple;
+  background: limegreen;
+  transition: .5s;
+}

@@ -1,0 +1,1 @@
+https://github.com/vazha-mgeli/VazhaGOA/blob/main/day49/homework/dzmakacebi.jpg?raw=true
